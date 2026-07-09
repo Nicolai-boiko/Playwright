@@ -7,7 +7,8 @@
     "test": "npx playwright test",
     "ui": "npx playwright test --ui",
     "chrome": "npx playwright test --browser=chromium",
-    "firefox": "npx playwright test --browser=firefox"
+    "firefox": "npx playwright test --browser=firefox",
+    "html": "npx playwright show-report"
   },
   "keywords": [],
   "author": "",
